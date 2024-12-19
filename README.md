@@ -2,10 +2,6 @@
 🔭 II am currently studying 3rd year CSE degree<br>👯 I’m looking to collaborate on open source ML or python projects <br>🤝 I’m looking for help with DSA and interview prep<br>🌱 I’m currently learning python and machine learning<br>
 
 
-(# 💫 About Me:
-🔭 II am currently studying 3rd year CSE degree<br>👯 I’m looking to collaborate on open source ML or python projects <br>🤝 I’m looking for help with DSA and interview prep<br>🌱 I’m currently learning python and machine learning<br>
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/c3YzM97D) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarvesh ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarvesh_99_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sarvesh N ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Sarvesh) 
 
