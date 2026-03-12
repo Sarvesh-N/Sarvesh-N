@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final Year CSE Undergrad  <br>💻 Interested in Machine Learning & Cybersecurity <br>📚 Currently learning Machine Learning Algorithms<br>🚀 Looking forward to working on exciting ML / Cybersecurity projects<br>
+🎓 Final Year CSE Undergrad  <br>💻 Interested in Machine Learning & Cybersecurity <br>📚 Currently learning Machine Learning Algorithms<br>🚀 Looking forward to working on exciting ML / Cybersecurity projects / Cloud Architecture<br>
 
 
 ## 🌐 Socials:
